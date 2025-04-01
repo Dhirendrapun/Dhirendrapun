@@ -8,8 +8,6 @@
 
 - 💬 Ask me about *React, Html, Tailwind*
 
-- 📫 How to reach me *https://itihasverma.vercel.app/*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/itihas_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itihas_verma" height="30" width="40" /></a>
@@ -95,8 +93,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itihask56&show_icons=true&locale=en&layout=compact" alt="itihask56" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itihask56&show_icons=true&locale=en" alt="itihask56" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itihask56&" alt="itihask56" /></p>
