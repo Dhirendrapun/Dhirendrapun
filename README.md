@@ -6,13 +6,7 @@
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
--   
+- 🔭 I’m currently working on React and Node.js  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -64,12 +58,6 @@
 
 ## Connect with me  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
